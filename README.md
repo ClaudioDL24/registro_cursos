@@ -33,13 +33,13 @@ agregando mayor funcionalidad y complejidad.
 El proyecto está en GitHub y es público. Puedes acceder al repositorio [aquí](https://github.com/ClaudioDL24/registro_cursos).
 
 ![Site administration]
-(registro_cursos\registro_cursos_app2\static\img/Imagen1.png).
+(registro_cursos_app2/static/img/Imagen1.png).
 
 ![Select curso to change]
-(registro_cursos\registro_cursos_app2\static\img/img/Imagen2.png).
+(registro_cursos_app2/static/img/Imagen2.png).
 
 ![Change Teacher]
-(registro_cursos\registro_cursos_app2\static\img/Imagen3.png).
+(registro_cursos_app2/static/img/Imagen3.png).
 
 El proyecto utiliza las siguientes tecnologías:
 
