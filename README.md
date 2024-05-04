@@ -32,6 +32,8 @@ agregando mayor funcionalidad y complejidad.
 
 El proyecto está en GitHub y es público. Puedes acceder al repositorio [aquí](https://github.com/ClaudioDL24/registro_cursos).
 
+hola [img1] (https://github.com/ClaudioDL24/registro_cursos/blob/main/registro_cursos_app2/static/img/Imagen1.png)
+
 El proyecto utiliza las siguientes tecnologías:
 
 - Django: Framework de desarrollo web en Python.
