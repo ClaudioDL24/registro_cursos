@@ -3,7 +3,6 @@ from django.contrib import admin
 from .models import Estudiante, Direccion, Curso, Profesor
 
 # Register your models here.
-
 @admin.register(Estudiante)
 class EstudianteAdmin(admin.ModelAdmin):
     list_display = ('rut', 'nombre', 'apellido', 'fecha_nac', 'activo', 'creacion_registro', 'modificacion_registro', 'creado_por')
